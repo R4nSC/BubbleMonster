@@ -1,0 +1,42 @@
+#GameField {
+    -fx-background-color: white;
+    -fx-background-radius: 6px;
+}
+
+.label {
+    -fx-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+#nameLabel {
+    -fx-alignment: center;
+    -fx-font-size: 20px;
+}
+
+#scoreLabel {
+    -fx-alignment: center-right;
+    -fx-font-size: 17px;
+    -fx-font-weight: bold;
+}
+
+#stageLabel {
+    -fx-alignment: center;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+#stagenumLabel {
+    -fx-alignment: center;
+    -fx-font-size: 20px;
+}
+
+#lifeBox {
+    -fx-background-color: white;
+    -fx-alignment: center;
+}
+
+#GameOverImage{
+    -fx-background-radius: 6px;
+    -fx-border-radius: 6px;
+}
