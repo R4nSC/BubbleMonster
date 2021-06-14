@@ -4,7 +4,7 @@ BubbleMonsterは跳ねるモンスターを倒すシューティングゲーム�
  
 # DEMO
 
-![BubbleMonster_img](https://user-images.githubusercontent.com/52380218/121849446-4bda9680-cd26-11eb-8943-7f9fe0414aeb.png)
+<img width="300" alt="bubble_img" src="https://user-images.githubusercontent.com/52380218/121849446-4bda9680-cd26-11eb-8943-7f9fe0414aeb.png">
 
 - 操作方法
     - Spaceキー：弾をうつ
